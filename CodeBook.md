@@ -33,7 +33,7 @@ For each record in the dataset it is provided:
 * 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
 
-## Data Transformation Steps:
+## Data Transformation Steps
 
 1. Merge training and the test sets to create one data set.
 2. For each measurement, extract only the measurements on mean and standard deviation.
